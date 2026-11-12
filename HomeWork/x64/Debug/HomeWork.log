@@ -1,0 +1,41 @@
+﻿  Game.cpp
+C:\Users\Bruno\_WORKSPACE\_local\archive\college\2026-game-of-life\HomeWork\Game.cpp(11,34): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Bruno\_WORKSPACE\_local\archive\college\2026-game-of-life\HomeWork\Game.cpp(11,34): warning C4244:         with
+C:\Users\Bruno\_WORKSPACE\_local\archive\college\2026-game-of-life\HomeWork\Game.cpp(11,34): warning C4244:         [
+C:\Users\Bruno\_WORKSPACE\_local\archive\college\2026-game-of-life\HomeWork\Game.cpp(11,34): warning C4244:             T=float
+C:\Users\Bruno\_WORKSPACE\_local\archive\college\2026-game-of-life\HomeWork\Game.cpp(11,34): warning C4244:         ]
+C:\Users\Bruno\_WORKSPACE\_local\archive\college\2026-game-of-life\HomeWork\Game.cpp(12,45): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Bruno\_WORKSPACE\_local\archive\college\2026-game-of-life\HomeWork\Game.cpp(12,45): warning C4244:         with
+C:\Users\Bruno\_WORKSPACE\_local\archive\college\2026-game-of-life\HomeWork\Game.cpp(12,45): warning C4244:         [
+C:\Users\Bruno\_WORKSPACE\_local\archive\college\2026-game-of-life\HomeWork\Game.cpp(12,45): warning C4244:             T=float
+C:\Users\Bruno\_WORKSPACE\_local\archive\college\2026-game-of-life\HomeWork\Game.cpp(12,45): warning C4244:         ]
+C:\Users\Bruno\_WORKSPACE\_local\archive\college\2026-game-of-life\HomeWork\Game.cpp(12,34): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Bruno\_WORKSPACE\_local\archive\college\2026-game-of-life\HomeWork\Game.cpp(12,34): warning C4244:         with
+C:\Users\Bruno\_WORKSPACE\_local\archive\college\2026-game-of-life\HomeWork\Game.cpp(12,34): warning C4244:         [
+C:\Users\Bruno\_WORKSPACE\_local\archive\college\2026-game-of-life\HomeWork\Game.cpp(12,34): warning C4244:             T=float
+C:\Users\Bruno\_WORKSPACE\_local\archive\college\2026-game-of-life\HomeWork\Game.cpp(12,34): warning C4244:         ]
+C:\Users\Bruno\_WORKSPACE\_local\archive\college\2026-game-of-life\HomeWork\Game.cpp(19,31): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Bruno\_WORKSPACE\_local\archive\college\2026-game-of-life\HomeWork\Game.cpp(19,31): warning C4244:         with
+C:\Users\Bruno\_WORKSPACE\_local\archive\college\2026-game-of-life\HomeWork\Game.cpp(19,31): warning C4244:         [
+C:\Users\Bruno\_WORKSPACE\_local\archive\college\2026-game-of-life\HomeWork\Game.cpp(19,31): warning C4244:             T=float
+C:\Users\Bruno\_WORKSPACE\_local\archive\college\2026-game-of-life\HomeWork\Game.cpp(19,31): warning C4244:         ]
+C:\Users\Bruno\_WORKSPACE\_local\archive\college\2026-game-of-life\HomeWork\Game.cpp(20,45): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Bruno\_WORKSPACE\_local\archive\college\2026-game-of-life\HomeWork\Game.cpp(20,45): warning C4244:         with
+C:\Users\Bruno\_WORKSPACE\_local\archive\college\2026-game-of-life\HomeWork\Game.cpp(20,45): warning C4244:         [
+C:\Users\Bruno\_WORKSPACE\_local\archive\college\2026-game-of-life\HomeWork\Game.cpp(20,45): warning C4244:             T=float
+C:\Users\Bruno\_WORKSPACE\_local\archive\college\2026-game-of-life\HomeWork\Game.cpp(20,45): warning C4244:         ]
+C:\Users\Bruno\_WORKSPACE\_local\archive\college\2026-game-of-life\HomeWork\Game.cpp(20,31): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Bruno\_WORKSPACE\_local\archive\college\2026-game-of-life\HomeWork\Game.cpp(20,31): warning C4244:         with
+C:\Users\Bruno\_WORKSPACE\_local\archive\college\2026-game-of-life\HomeWork\Game.cpp(20,31): warning C4244:         [
+C:\Users\Bruno\_WORKSPACE\_local\archive\college\2026-game-of-life\HomeWork\Game.cpp(20,31): warning C4244:             T=float
+C:\Users\Bruno\_WORKSPACE\_local\archive\college\2026-game-of-life\HomeWork\Game.cpp(20,31): warning C4244:         ]
+C:\Users\Bruno\_WORKSPACE\_local\archive\college\2026-game-of-life\HomeWork\Game.cpp(64,22): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Bruno\_WORKSPACE\_local\archive\college\2026-game-of-life\HomeWork\Game.cpp(97,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Bruno\_WORKSPACE\_local\archive\college\2026-game-of-life\HomeWork\Game.cpp(137,115): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Bruno\_WORKSPACE\_local\archive\college\2026-game-of-life\HomeWork\Game.cpp(137,69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Main.cpp
+  Generating Code...
+  HomeWork.vcxproj -> C:\Users\Bruno\_WORKSPACE\_local\archive\college\2026-game-of-life\x64\Debug\HomeWork.exe
+  Copying SFML debug DLLs to output directory
+  0 File(s) copied
+  0 File(s) copied
